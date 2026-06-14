@@ -23,7 +23,7 @@ Po taśmie lecą kolorowe "doty" — zadaniem gracza jest strzelić kulką w tym
 | Komponent | Opis |
 |-----------|------|
 | Arduino Uno | Główny mikrokontroler |
-| Taśma LED NeoPixel | 30 diód RGB (FastLED) |
+| Taśma LED NeoPixel | 60 diód RGB (FastLED) |
 | Wyświetlacz LCD 16x2 I2C | Wynik i komunikaty (adres 0x27) |
 | Buzzer | Efekty dźwiękowe |
 | 6 przycisków RGB | 3 na gracza (czerwony, zielony, niebieski) |
